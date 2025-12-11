@@ -1,4 +1,4 @@
-![NNA-CO Artboard Logo](./artboard_16.png)
+![NNA-CO Artboard Logo](./artboard_16.white-background.png)
 
 # Navigating the New Arctic Community Office
 
