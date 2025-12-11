@@ -1,3 +1,5 @@
+![NNA-CO Artboard Logo](./artboard_16.png)
+
 # Navigating the New Arctic Community Office
 
 Navigating the New Arctic (NNA) is one of NSF's 10 Big Ideas. NNA projects address challenges in the rapidly changing Arctic using convergence research. 
