@@ -22,5 +22,10 @@ and students across Alaska to maintain coordinated, culturally appropriate, and 
 
 We honor and acknowledge the Indigenous peoples, nations, and traditional territories of the lands in which the offices reside. 
 
+## About the Seal Logo
+
+The seal design used in our logo was sketched from ancestral memory by Joseph Senungetuk (I&#241;upiaq).  The words "Uummati&#241; I&#241;uuruq" translate 
+"your heart is alive" in the North West/North Slope I&#241;upiaq dialect.  The Story of the Seal Design can be found on the [NNA-CO website](https://nna-co.org/nna-co-logo).
+
 The NNA-CO is supported through a cooperative agreement (Award # 2040729) with the U.S. National Science Foundation.
 
