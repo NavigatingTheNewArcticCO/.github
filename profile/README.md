@@ -29,3 +29,8 @@ The seal design used in our logo was sketched from ancestral memory by Joseph Se
 
 The NNA-CO is supported through a cooperative agreement (Award # 2040729) with the U.S. National Science Foundation.
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="./partner_logos.montage.png">
+ <source media="(prefers-color-scheme: light)" srcset="./partner_logos.montage.png">
+ <img alt="NNA-CO Partner Logos" src="./partner_logos.montage.png">
+</picture>
